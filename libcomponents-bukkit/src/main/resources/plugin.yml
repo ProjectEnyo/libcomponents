@@ -1,0 +1,5 @@
+name: LibComponents-Bukkit
+main: com.zachsthings.libcomponents.bukkit.BasePlugin
+version: 1.3.1
+depend: [WorldEdit]
+api-version: 1.21
